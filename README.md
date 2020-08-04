@@ -1,6 +1,7 @@
 # ItunesSearch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
+Deploy to [Live Demo](https://zihaoz12.github.io/iTunes-search)
 
 ## Development server
 
